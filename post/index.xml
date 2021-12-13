@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projetos on Marcos Abdalla</title>
+    <link>https://marcosabdalla.github.io/Portifolio_Abdalla_2/post/</link>
+    <description>Recent content in Projetos on Marcos Abdalla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://marcosabdalla.github.io/Portifolio_Abdalla_2/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimação de Torque Simulado</title>
+      <link>https://marcosabdalla.github.io/Portifolio_Abdalla_2/post/projeto-3/</link>
+      <pubDate>Sun, 12 Dec 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://marcosabdalla.github.io/Portifolio_Abdalla_2/post/projeto-3/</guid>
+      <description>Estimacao Torque MotorCC Simulado Este código mostra como utilizar uma Rede Neural Atificial para estimar o valor do toque desenvolvido por um motor CC de excitação independente. Os dados foram montados simulando um vetor de tensão de terminal de 127V com um erro aleatório de +- 1V. A corrente de armadura foi aumentada de 0 a 5 amperes adicionado um erro de medição aleatório de +-0.1. A velocidade assim como a corrente foi criada a partir de um vetor de 0 a 188.</description>
+    </item>
+    
+    <item>
+      <title>Classificação simples</title>
+      <link>https://marcosabdalla.github.io/Portifolio_Abdalla_2/post/projeto-2/</link>
+      <pubDate>Fri, 10 Dec 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://marcosabdalla.github.io/Portifolio_Abdalla_2/post/projeto-2/</guid>
+      <description>Este código mostra como utilizar o Python e o Tensor Flow para classificação de um conjunto de dados.
+  Dados a serem separados     O &amp;#39;x&amp;#39; mostra o elemento classificado   Link para o repositório no GitHub</description>
+    </item>
+    
+    <item>
+      <title>Regressão Logísitica</title>
+      <link>https://marcosabdalla.github.io/Portifolio_Abdalla_2/post/projeto-1/</link>
+      <pubDate>Fri, 10 Dec 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://marcosabdalla.github.io/Portifolio_Abdalla_2/post/projeto-1/</guid>
+      <description>Este código mostra como uma rede neural artificial é capaz de se ajustar a uma curva com alto grau de não-linearidade.
+  Curva a ser ajustada pela RNA     Curva a ser ajustada pela RNA e curva ajustada pela RNA   Link para o repositório no GitHub</description>
+    </item>
+    
+  </channel>
+</rss>
